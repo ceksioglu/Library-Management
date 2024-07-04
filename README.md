@@ -30,6 +30,9 @@ The project includes the following entities:
 - **Many-to-Many**: 
   - A book can belong to multiple categories.
   - A category can contain multiple books.
+ 
+![db](https://github.com/ceksioglu/Library-Management/assets/64319097/502d003e-6822-4fe4-be7c-6dd6136a96b0)
+
 
 ## Database Configuration
 
@@ -57,5 +60,3 @@ Ensure your `persistence.xml` file is properly configured to connect to your Pos
         </properties>
     </persistence-unit>
 </persistence>
-
-![db](https://github.com/ceksioglu/Library-Management/assets/64319097/502d003e-6822-4fe4-be7c-6dd6136a96b0)
